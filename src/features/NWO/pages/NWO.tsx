@@ -5,7 +5,7 @@ export default function NWO() {
       <h1>NWO</h1>
       <section>
         <div>
-          <Button variant='outline'>Wrapper</Button>
+          <Button variant='default' size='lg'>Wrapper</Button>
         </div>
       </section>
     </div>
